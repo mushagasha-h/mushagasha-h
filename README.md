@@ -1,6 +1,6 @@
 # About Me:
 </> Software Engineer and Data analyst</br>
-🔭 Building scalable ML systems & researching AI applications<br>👯 Open-source projects & academic research collaborations  <br>🤝 MLOps, distributed training, production deployment<br>🌱 Advanced transformer architectures & quantum ML<br>💬 ML algorithms, software architecture, cloud computing</br> 
+🔭 Building scalable ML systems & researching AI applications<br>🤝 MLOps, distributed training, production deployment<br>💬 ML algorithms, software architecture, cloud computing</br> 
 
 
 # 💻 Tech Stack:
